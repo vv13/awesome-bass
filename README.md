@@ -2,6 +2,9 @@
 
 > 🎸 A curated list of awesome bass
 
+## Environment
+- [COMMON](README.md)
+- [CHINA](README_zh.md)
 
 ## Contents
 
