@@ -8,25 +8,17 @@
 
 ## 内容
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [练习技巧](#practive)
+- [视频教程](#video)
+- [鸡汤](#soup)
 
+## 视频教程<span id="video"></span>
 
-## Section
+- [[Learn Bass]-RichyBlake-中文字幕](https://space.bilibili.com/26171317/#/channel/detail?cid=22655)
+- [BVB贝斯](http://i.youku.com/i/UMzU3NTI3Mjc2?spm=a2hzp.8244740.0.0)
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+## 鸡汤
+- [如何成为一个优秀的贝斯手](https://zhuanlan.zhihu.com/p/28292824)
 
 ## 其他
 

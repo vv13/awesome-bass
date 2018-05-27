@@ -8,26 +8,27 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Master](#master)
+- [Tabs](#tabs)
+- [Videos](#videos)
+- [Utils](#utils)
 
+## Master
 
-## Section
+- [Marcus Miller](http://www.marcusmiller.com/)
+- [Victor Wooten](https://www.victorwooten.com/)
 
-About this section. Optional. Keep this short and focus on the list.
+## Tabs
+- [https://www.songsterr.com/](https://www.songsterr.com/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Videos
+- [TalkingBass](https://www.youtube.com/user/TalkingBassVideo)
+- [Scott's Bass Lessons](https://www.youtube.com/user/devinebass)
+- [Davie504](https://www.youtube.com/channel/UCgFvT6pUq9HLOvKBYERzXSQ)
+- [Rob Scallon](https://www.youtube.com/channel/UCyDZai57BfE_N0SaBkKQyXg)
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
+## Utils
+- [Flat.io](https://flat.io/), Create, compose, collaborate, play, and print your sheet music using the world's most simple and intuitive web-based music writing and composition software.
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
