@@ -2,9 +2,10 @@
 
 > 🎸 A curated list of awesome bass
 
-## Environment
-- [COMMON](README.md)
-- [CHINA](README_zh.md)
+## Language
+Resources are different in each language.
+- [English](README.md)
+- [中文](README_zh.md)
 
 ## Contents
 
